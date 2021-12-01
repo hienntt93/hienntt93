@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hienntt93
-- 👀 I’m interested in Cybersecurity, ML/DL in security, and Cloud Computing (AWS/CGP)security
+- 👀 I’m interested in Cybersecurity, ML/DL in security, and blockchain security
 - 🌱 I’m looking to collaborate on pentest or security research projects.
 - 💞️ I’m currently available for an AWS security remote position.
 - 📫 Reach me by dropiong a comment
