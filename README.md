@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hienntt93
-- 👀 I’m interested in Cybersecurity, ML/DL in security, and blockchain security
-- 🌱 I'm collaborating with a university in Italian for a Distributed Ledger security project.
-- 💞️ I’m currently available for an DevSecOps/ Cloud security engineer remote position.
+- 👀 I’m interested in Cybersecurity, ML/DL in security, and Cloud security
+- 🌱 I'm studying Master's Degree in Cybersecurity.
+- 💞️ I’m currently available for a DevSecOps/ Cloud security engineer remote position.
 - 📫 Reach me by dropping a comment if you have any concerns or offer me a cooperating opportunity.
 - 
 <!---
